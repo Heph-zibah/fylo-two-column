@@ -1,8 +1,9 @@
 <script setup>
+import Index from './views/index.vue'
 </script>
 
 <template>
-  <h1>npx tailwindcss init -p</h1>
+  <Index/>
 </template>
 
 <style scoped>
